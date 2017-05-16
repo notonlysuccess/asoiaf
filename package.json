@@ -1,0 +1,20 @@
+{
+  "name": "weapp-example",
+  "version": "1.0.0",
+  "description": "weapp example",
+  "scripts": {
+    "build": "gulp dev",
+    "dev": "gulp watch"
+  },
+  "keywords": [
+    "weapp"
+  ],
+  "devDependencies": {
+    "babel-preset-latest": "^6.24.1",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "path": "^0.12.7",
+    "run-sequence": "^1.2.2"
+  }
+}
